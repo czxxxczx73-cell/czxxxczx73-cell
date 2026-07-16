@@ -6,7 +6,7 @@ Privacy-first · Universal 2 (Apple Silicon + Intel) · English / 简体中文
 
 | Project | What it does |
 |---|---|
-| **[Chat Session Managers](https://github.com/czxxxczx73-cell/chat-session-managers)** | Browse & manage **Codex · Claude Code · Grok** conversation history — fully local, no telemetry · [Watch the 24-second demo](https://github.com/czxxxczx73-cell/chat-session-managers/releases/download/v2.0.1/chat-session-managers-functional-demo.mp4) |
+| **[Chat Session Managers](https://github.com/czxxxczx73-cell/chat-session-managers)** | Browse, search, archive, restore, and safely delete **Codex · Claude Code · Grok** history — fully local, no telemetry · [Open the product page](https://czxxxczx73-cell.github.io/chat-session-managers/) |
 | **[Screenshot Home](https://github.com/czxxxczx73-cell/Screenshot-Home)** | Native **screenshot library** — organize, search, preview, archive without cloud |
 
 #### Recognition
@@ -15,7 +15,8 @@ Privacy-first · Universal 2 (Apple Silicon + Intel) · English / 简体中文
 
 #### Quick links
 
-- ▶️ [Watch the Session Managers functional demo](https://github.com/czxxxczx73-cell/chat-session-managers/releases/download/v2.0.1/chat-session-managers-functional-demo.mp4)
+- 🌐 [Explore the Session Managers product page](https://czxxxczx73-cell.github.io/chat-session-managers/)
+- ▶️ [Watch the 20-second live UI demo](https://github.com/czxxxczx73-cell/chat-session-managers/releases/download/v2.0.1/chat-session-managers-demo-v2.mp4)
 - ⬇️ [Download Session Managers](https://github.com/czxxxczx73-cell/chat-session-managers/releases/latest)
 - 💬 [Join the Session Managers discussion](https://github.com/czxxxczx73-cell/chat-session-managers/discussions/6)
 - ⬇️ [Download Screenshot Home](https://github.com/czxxxczx73-cell/Screenshot-Home/releases/latest)
