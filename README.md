@@ -6,8 +6,12 @@ Privacy-first · Universal 2 (Apple Silicon + Intel) · English / 简体中文
 
 | Project | What it does |
 |---|---|
-| **[Chat Session Managers](https://github.com/czxxxczx73-cell/chat-session-managers)** | Browse & manage **Codex · Claude Code · Grok** conversation history on your Mac — fully local, no telemetry |
-| **[Screenshot Home](https://github.com/czxxxczx73-cell/Screenshot-Home)** | Native **screenshot library** for macOS — organize, search, preview, archive without cloud |
+| **[Chat Session Managers](https://github.com/czxxxczx73-cell/chat-session-managers)** | Browse & manage **Codex · Claude Code · Grok** conversation history — fully local, no telemetry |
+| **[Screenshot Home](https://github.com/czxxxczx73-cell/Screenshot-Home)** | Native **screenshot library** — organize, search, preview, archive without cloud |
+
+#### Recognition
+
+- Listed in [Awesome Swift macOS Apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)
 
 #### Quick links
 
